@@ -1,10 +1,17 @@
 # Book Recommendation System Web-Page
-Uploading fast - Made with Clipchamp.mp4…
+
+https://github.com/mohiteyashprogrammer/Book_recommendation_system/assets/114924851/581e4d5c-517e-461a-8e42-30937a40dcff
 
 
 
 
-To run flask application 
+
+
+
+
+
+
+
 
 ```
 python app.py
